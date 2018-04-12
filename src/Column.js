@@ -1,5 +1,5 @@
-import Base from './Base';
+import Box from './Box';
 
-const Column = Base.extend`
+const Column = Box.extend`
   flex-direction: column;
 `
