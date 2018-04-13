@@ -1,5 +1,7 @@
-export block from './block';
-export Box from './Box';
-export Flex from './Flex';
-export Column from './Column';
-export Row from './Row';
+import block from './block';
+import Box from './Box';
+import Column from './Column';
+import Row from './Row';
+
+export default block;
+export { Box, Column, Row };
