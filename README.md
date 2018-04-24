@@ -5,6 +5,10 @@
 ```
 npm i styled-blocks --save
 ```
+or
+```
+yarn add styled-blocks
+```
 
 ## Usage
 
